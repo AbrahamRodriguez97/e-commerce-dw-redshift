@@ -1,12 +1,14 @@
 # GlobalCommerce Analytics: AWS Redshift Data Warehouse Implementation
 
-<img width="1024" height="572" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/tu-imagen-aqui" />
+<img width="1400" height="577" alt="image" src="https://github.com/user-attachments/assets/1102f901-4703-4499-9fdf-e57f86092367" />
 
 ## Overview / Resumen
 
 **EN:** This project demonstrates the implementation of a scalable Data Warehouse using **AWS Redshift**. It covers the end-to-end process: from synthetic data generation with Python, ingestion from **Amazon S3** using the high-performance `COPY` command, to dimensional modeling (Star Schema) and ELT transformations for business intelligence.
 
 **ES:** Este proyecto demuestra la implementación de un Data Warehouse escalable utilizando **AWS Redshift**. Cubre el proceso de extremo a extremo: desde la generación de datos sintéticos con Python, la ingesta desde **Amazon S3** mediante el comando de alto rendimiento `COPY`, hasta el modelado dimensional (Esquema en Estrella) y transformaciones ELT para inteligencia de negocios.
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5bad6902-24ba-4a7a-8759-1253b9ec16b7" />
 
 ---
 
@@ -53,5 +55,10 @@
 
 The system provides immediate answers to:
 * **Top Performing Categories:** Total revenue and order volume by product type.
+  <img width="635" height="129" alt="image" src="https://github.com/user-attachments/assets/6794b7a9-e0a5-407e-a399-06c4706b0ddf" />
+
 * **Customer Lifetime Value (CLV):** Identification of VIP segments for targeted marketing.
+<img width="816" height="378" alt="image" src="https://github.com/user-attachments/assets/cf37b013-5caa-40a5-968c-bfc2403465a7" />
+
 * **Regional Performance:** Sales distribution across Mexico, USA, Canada, and Brazil.
+<img width="811" height="129" alt="image" src="https://github.com/user-attachments/assets/087c7377-c7a3-4ba8-8707-d6dd5efe49a1" />
