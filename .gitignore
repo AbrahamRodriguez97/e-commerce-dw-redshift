@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Datos (No se suben a GitHub)
+data/*.csv
+*.csv
+
+# OS específicos
+.DS_Store
+Thumbs.db
